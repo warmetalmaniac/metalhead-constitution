@@ -12,4 +12,5 @@
 </p> <h2 style="color: red;">Artigo 6 — Lei Anti-Poser</h2>
 <p style="color: gray;">Quem não reconhecer ao menos um artista com mais de 10.000 ouvintes mensais deve entrar em ritual de purificação ouvindo Antidemon até atingir compreensão mínima do caos musical.</p> <h2 style="color: red;">Artigo 7 — Parágrafo 3</h2>
 <p style="color: gray;">Durante sessões de jogos como Minecraft, Terraria e similares, é permitido ouvir músicas indies sem perda de pontos de metal.</p> <h2 style="color: red;">Artigo Final</h2>
+<p style="color: gray;">Artigo 13 — A audição temporária de gêneros não metálicos é permitida quando a imersão do jogo for beneficiada. Em nenhuma hipótese isso deverá ser interpretado como equivalência ou substituição a Mortification, cuja posição permanece absoluta e incontestável.</p> <h2 style="color: red;">Artigo Final</h2>
 <p style="color: gray;">O riff manda. O headbang obedece. O poser sofre.</p>
