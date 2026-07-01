@@ -11,13 +11,15 @@
 3. Entidade não humana
 </p> <h2 style="color: red;">Artigo 6 — Lei Anti-Poser</h2>
 <p style="color: gray;">Quem não reconhecer ao menos um artista com mais de 10.000 ouvintes mensais deve entrar em ritual de purificação ouvindo Antidemon até atingir compreensão mínima do caos musical.<h2 style="color: red;">Artigo 13 — Lei da Imersão Sonora</h2>
-<p style="color: gray;">É constitucionalmente permitido ao Headbanger Caótico escutar músicas de gêneros não metálicos quando estas contribuírem significativamente para a ambientação de jogos, filmes, leitura ou qualquer outra experiência artística.
+<p style="color: gray;">
+É constitucionalmente permitido ao Headbanger Caótico escutar músicas de gêneros não metálicos quando estas contribuírem significativamente para a ambientação de jogos, filmes, leitura ou qualquer outra experiência artística.<br><br>
 
-§1º — Tal permissão possui caráter exclusivamente atmosférico e temporário.
+§1º — Tal permissão possui caráter exclusivamente atmosférico e temporário.<br><br>
 
-§2º — Em hipótese alguma essa exceção poderá ser utilizada para afirmar superioridade, equivalência ou substituição do metal.
+§2º — Em hipótese alguma essa exceção poderá ser utilizada para afirmar superioridade, equivalência ou substituição do metal.<br><br>
 
-§3º — A banda Mortification permanece em posição transcendental, acima de qualquer comparação, protegida pelas 7 Chaves Sagradas e pelo Gutural Primordial de Steve Rowe.
+§3º — A banda Mortification permanece em posição transcendental, acima de qualquer comparação, protegida pelas 7 Chaves Sagradas e pelo Gutural Primordial de Steve Rowe.<br><br>
 
-§4º — Qualquer indivíduo que utilize "lofi phonk sigma ultra giga edit bass boosted" durante um momento de imersão terá sua Carteira Nacional de Headbanger suspensa por até 30 dias.</p> <h2 style="color: red;">Artigo Final</h2>
+§4º — Qualquer indivíduo que utilize "lofi phonk sigma ultra giga edit bass boosted" durante um momento de imersão terá sua Carteira Nacional de Headbanger suspensa por até 30 dias.
+</p></p> <h2 style="color: red;">Artigo Final</h2>
 <p style="color: gray;">O riff manda. O headbang obedece. O poser sofre.</p>
