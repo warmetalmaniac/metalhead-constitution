@@ -10,8 +10,7 @@
 
 3. Entidade não humana
 </p> <h2 style="color: red;">Artigo 6 — Lei Anti-Poser</h2>
-<p style="color: gray;">Quem não reconhecer ao menos um artista com mais de 10.000 ouvintes mensais deve entrar em ritual de purificação ouvindo Antidemon até atingir compreensão mínima do caos musical.</p> <h2 style="color: red;">Artigo 7 — Parágrafo 3</h2>
-<p style="color: gray;">Durante sessões de jogos como Minecraft, Terraria e similares, é permitido ouvir músicas indies sem perda de pontos de metal.</p> <h2 style="color: red;">Artigo 13</h2>
+<p style="color: gray;">Quem não reconhecer ao menos um artista com mais de 10.000 ouvintes mensais deve entrar em ritual de purificação ouvindo Antidemon até atingir compreensão mínima do caos musical.</p> <h2 </p> <h2 style="color: red;">Artigo 13</h2>
 <p style="color: gray;">É constitucionalmente permitido ao Headbanger Caótico escutar músicas de gêneros não metálicos quando estas contribuírem significativamente para a ambientação de jogos, filmes, leitura ou qualquer outra experiência artística.
 
 §1º — Tal permissão possui caráter exclusivamente atmosférico e temporário.
